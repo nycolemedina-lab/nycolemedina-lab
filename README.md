@@ -1,4 +1,4 @@
-# Hi there, I'm Nycole Medina Tirado👋
+# Hi there, I'm Nycole Medina 👋
 
 I'm currently studying at Holberton Coding School to become a Full Stack Software Engineer.
 
